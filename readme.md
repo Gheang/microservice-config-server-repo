@@ -15,9 +15,9 @@ git config --global user.email "physophearak11@gmail.com"
 git config --global user.name "physophearak"
 git commit -m "microservice-config-server-repo"
 
-gh repo create microservice-config-server-repo-sample --public
+gh repo create microservice-config-server-repo --public
 
-git remote add origin https://github.com/physophearak/microservice-config-server-repo-sample
+git remote add origin https://github.com/Gheang/microservice-config-server-repo
 git push -u origin master
 
 
